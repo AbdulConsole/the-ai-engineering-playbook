@@ -1,3 +1,9 @@
+![image](img/logo.png)
+
+<div align="center">
+<p align="center">by Abdulhafeez Olaitan</p>
+</div>
+
 # AI Engineering Playbook
 
 > A practical guide to AI-assisted software engineering
